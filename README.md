@@ -1,8 +1,8 @@
 <h2 align="left">👋 Hello World! I'm [Ayush Sinha]<br><br>
   👨‍💻 Android Developer | 🚀 Kotlin Enthusiast | 🔐 Cybersecurity Enthusiast|<br><br>
-  🔧 Tech Stack:<br>- **Languages:** Kotlin, Java<br>- **Frameworks:** Android SDK, Jetpack<br>- **Tools:** Git, Gradle<br>- **Security:** Ethical Hacking,</h2>
+  🔧 Tech Stack:<br>- Languages: Kotlin, Java<br>- Frameworks: Android SDK, Jetpack<br>- Tools: Git, Gradle<br>- Security: Ethical Hacking,</h2>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ayushsinha322&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
